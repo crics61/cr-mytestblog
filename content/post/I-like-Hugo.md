@@ -1,8 +1,9 @@
-+++
-
-Title = "I like Hugo"
-
-+++
+---
+Title: I like Hugo
+title: I like Hugo
+date: 2022-08-28T16:32:44.530Z
+thumbnail: /images/ryan-stone-k8yhesefyza-unsplash.jpg
+---
 
 ## Hugo is the bee's knees
 
