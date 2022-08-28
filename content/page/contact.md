@@ -1,9 +1,10 @@
-+++
-title = "Contact"
-date = 2015-04-03T02:13:50Z
-author = "My Name"
-description = "How to contact me."
-+++
+---
+title: Contact
+date: 2015-04-03T02:13:50.000Z
+author: My Name
+description: How to contact me.
+thumbnail: /images/basenji-7043689_1920.jpg
+---
 
 ## Contact
 
