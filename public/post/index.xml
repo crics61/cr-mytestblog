@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My blog</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on My blog</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I like Hugo</title>
+      <link>/i-like-hugo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/i-like-hugo/</guid>
+      <description>Hugo is the bee&amp;rsquo;s knees It&amp;rsquo;s fast
+It&amp;rsquo;s easy to use
+It has cool templates
+Alternatives There are other SSGs out there - like Jekyll, Gatsby, and 11ty, but I don&amp;rsquo;t have any experience with them. I suspect they all have their strengths.</description>
+    </item>
+    
+    <item>
+      <title>I like Markdown</title>
+      <link>/i-like-markdown/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/i-like-markdown/</guid>
+      <description>Markdown is really cool It doesn&amp;rsquo;t waste screen real estate.
+It&amp;rsquo;s doesn&amp;rsquo;t slow down typing due to having to constantly reach for the mouse.
+It provides just enough to get the job done.
+It&amp;rsquo;s pretty easy to memorise.
+Yes, there are other ways Like keyboard shortcuts often used in rich-text editors. These are handy for those who need them. In an ideal world, they could be turned on or off as required.</description>
+    </item>
+    
+    <item>
+      <title>I like NetlifyCMS</title>
+      <link>/i-like-netlifycms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/i-like-netlifycms/</guid>
+      <description>NetlifyCMS is Useful It&amp;rsquo;s great to be able to create a static site and still give site owners a simple means of updating their site.
+I see it working best when a &amp;ldquo;skeleton&amp;rdquo; site is created, just from a theme and two or three pages and a blog entry. The CMS would be used to update certain areas on the page and individual blog posts, but not everything.
+Time will tell exactly what is possible.</description>
+    </item>
+    
+  </channel>
+</rss>
